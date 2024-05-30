@@ -27,10 +27,10 @@ git clone https://github.com/ultralytics/yolov5.git
 실행은 windowAPP_feat_Humanoid_tts.py  
 ## 프로그램 실행 결과  
 
-이 프로그램은 인식 결과에 따라서 휴머노이드 로봇에게 특정 행동을 하도록 한다.  
-TTS를 이용해서 음성 출력을 하도록 하였다. STT는 반대로 음성을 인식하는것을 말함  
-로봇을 움직이기 위해서는 먼저 SerialPort 객체를 가져와야 한다.  
-PC에 없는 포트를 만들기 위해 cp2104라는 USBtoUART 변환젠더를 사용했고 드라이버가 필요하다.  
+## 이 프로그램은 인식 결과에 따라서 휴머노이드 로봇에게 특정 행동을 하도록 한다.  
+## TTS를 이용해서 음성 출력을 하도록 하였다. STT는 반대로 음성을 인식하는것을 말함  
+## 로봇을 움직이기 위해서는 먼저 SerialPort 객체를 가져와야 한다.  
+## PC에 없는 포트를 만들기 위해 cp2104라는 USBtoUART 변환젠더를 사용했고 드라이버가 필요하다.  
 ```
 http://www.iamamaker.kr/ko/tutorials/cp210x-usb-to-uart-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/  
 ```
