@@ -29,7 +29,10 @@ git clone https://github.com/ultralytics/yolov5.git
 ## 프로그램 실행 결과  
 [ Person ]  
 ![image](https://github.com/jiwon0629/NativeAppYoloCustom_TTS/assets/149983498/17545021-1352-47b0-b869-2cbfb0378f50)  
-![image](https://github.com/jiwon0629/NativeAppYoloCustom_TTS/assets/149983498/ca639d35-598c-4f0f-b6af-fbcde57910d6)
+![image](https://github.com/jiwon0629/NativeAppYoloCustom_TTS/assets/149983498/ca639d35-598c-4f0f-b6af-fbcde57910d6)  
+[Person 로봇 결과화면](https://github.com/jiwon0629/NativeAppYoloCustom_TTS/assets/149983498/130fc6c0-c83e-47c3-ad69-208233c556b3)
+
+[Bottle 로봇 결과화면](https://github.com/jiwon0629/NativeAppYoloCustom_TTS/assets/149983498/1c2c8245-16a9-4b64-9b96-72fdc2797d88)  
 
 
 
